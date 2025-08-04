@@ -1,4 +1,4 @@
-echo "# Upendra-Shahi-Thakuri-" >> README.md
+dell "# Upendra-Shahi-Thakuri-" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
